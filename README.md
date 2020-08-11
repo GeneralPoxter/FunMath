@@ -16,5 +16,5 @@ https://piq.codeus.net/picture/342440/Pine
 http://pixelartmaker.com/art/67c17fc6b27ffae  
 http://pixelartmaker.com/art/df388a3d209c794  
 [PixelPeople](https://pixelpeople.fandom.com/wiki/Professions)  
-[favicon.io](favicon.io)  
+[favicon.io](https://favicon.io/)  
 Please don't sue us

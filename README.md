@@ -1,4 +1,4 @@
-# <img src="src/icon.ico" style="float:left;" width="36"/>&nbsp;FunMath
+# <img src="src/icon.ico" style="float:left;" width="35"/>&nbsp;FunMath
 ## About
 8th grade (2018) CS project hacked together in about a week, successor to defunct MathCraft project, crime against humanity, never using pygame again  
 Enjoy this educational software aimed at teaching core concepts including arithmetic, probability, and Cartesian coordinates  
@@ -16,5 +16,5 @@ https://piq.codeus.net/picture/342440/Pine
 http://pixelartmaker.com/art/67c17fc6b27ffae  
 http://pixelartmaker.com/art/df388a3d209c794  
 [PixelPeople](https://pixelpeople.fandom.com/wiki/Professions)  
-favicon.io  
+[favicon.io](favicon.io)  
 Please don't sue us

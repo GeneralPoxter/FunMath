@@ -1,4 +1,4 @@
-# <img src="src/icon.ico" style="float:left;" width="30"/>&nbsp;FunMath
+# <img src="src/icon.ico" style="float:left;" width="25"/>&nbsp;FunMath
 ## About
 8th grade (2018) CS project hacked together in about a week, successor to defunct MathCraft project, crime against humanity, never using pygame again  
 Enjoy this educational software aimed at teaching core concepts including arithmetic, probability, and Cartesian coordinates  

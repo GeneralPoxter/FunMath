@@ -4,6 +4,9 @@
 Enjoy this educational software aimed at teaching core concepts including arithmetic, probability, and Cartesian coordinates  
 Colorful and imaginative, suited for children ages 5-10
 
+## Installation
+Only downloading and running `FunMath.exe` is required.
+
 ## Developers
 Jason Liu  
 Andrew Healey  
